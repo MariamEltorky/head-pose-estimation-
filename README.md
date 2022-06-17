@@ -4,5 +4,5 @@ Particularly, it means detecting the head’s Euler angles – yaw, pitch and ro
 ## Using mediapipe
 Video : https://drive.google.com/file/d/1cnm_2q4jwlstQdisc8gd2WlVibxotwtR/view?usp=sharing
 ## Team Members:
-  1- Mariam Ehab Eltorky 
-  2- Ebaa Osama Al-Mahdy
+### 1- Mariam Ehab Eltorky 
+### 2- Ebaa Osama Al-Mahdy
